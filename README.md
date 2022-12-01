@@ -1,2 +1,3 @@
 # Senior-Project
-//Senior Project foor Saint Martin's University
+
+Senior Project for Saint Martin's University
